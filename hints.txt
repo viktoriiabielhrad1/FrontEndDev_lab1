@@ -1,0 +1,14 @@
+Create the following HTML pages:
+- index.html & story.html
+
+HINTS:
+- use <h3> for headings
+- use <p> tags to mark up the content
+- Use a <ul> element with <li> items to create your navigation.
+- useful colors:
+    - Off-White:#efeed9
+    - grey: #2e2e2e;
+- useful Google fonts
+    - Lato
+    - Rubik Dirt
+- sometimes you need to display images as blocks...
